@@ -126,5 +126,9 @@ font-family: 'Josefin Sans', sans-serif;
 	padding-top: 300px;
 	padding-right: 40px;
 	padding-left: 40px;
+  padding-bottom: 0;
 
+}
+ p hr{
+  border-top: 3px solid #eee;
 }
