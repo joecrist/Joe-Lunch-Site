@@ -120,8 +120,8 @@ div:nth-of-type(1) {
 
 .programmer{
 font-family: 'Josefin Sans', sans-serif;
-
-	font-size: medium;
+color:black;
+	font-size: 1.3em;
 	line-height:25px;
 	padding-top: 300px;
 	padding-right: 40px;
