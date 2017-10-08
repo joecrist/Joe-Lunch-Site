@@ -129,6 +129,61 @@ font-family: 'Josefin Sans', sans-serif;
   padding-bottom: 0;
 
 }
- p hr{
-  border-top: 3px solid #eee;
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 5px solid black;
+}
+
+@media only screen and (max-width: 900px){
+
+  #eat{
+    color:orange;
+    font-family:arial;
+    font-size: 20px;
+    font-style: none;
+    padding-left:0;
+    padding-top:20px;
+
+  }
+}
+
+@media only screen and (max-width: 900px){
+
+  #sleep{
+    color:red;
+    font-family:arial;
+    font-size: 20px;
+    font-style: none;
+    padding-left:0;
+    padding-top:20px;
+
+  }
+}
+
+@media only screen and (max-width: 900px){
+
+  #code{
+    color:yellow;
+    font-family:arial;
+    font-size: 20px;
+    font-style: none;
+    padding-left:100px;
+    padding-top:20px;
+
+  }
+}
+
+@media only screen and (max-width: 900px){
+
+  #repeat{
+    color:YELLOWGREEN;
+    font-family:arial;
+    font-size: 20px;
+    font-style: none;
+    padding-left:100px;
+    padding-top:50px;
+
+  }
 }
